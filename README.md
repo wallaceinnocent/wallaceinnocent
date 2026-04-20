@@ -20,9 +20,9 @@
 ![Fiber](https://img.shields.io/badge/Fiber-v2-blue?style=for-the-badge&logo=gofiber&logoColor=white)
 
 ### 📊 GitHub Stats
-![Wallace's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&rank_icon=github)
+![Wallace's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wallaceinnocent&show_icons=true&theme=radical&rank_icon=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wallaceinnocent&layout=compact&theme=radical)
 
 ---
 
