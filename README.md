@@ -26,9 +26,9 @@ I'm a full-stack software engineer specializing in distributed systems, microser
 
 ## 💼 Technical Expertise
 
-<table>
+<table style="width:100%; border-collapse: collapse;">
 <tr>
-<td width="50%">
+<td style="width:50%; vertical-align:top; padding: 20px;">
 
 ### Languages & Runtimes
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -37,7 +37,7 @@ I'm a full-stack software engineer specializing in distributed systems, microser
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 </td>
-<td width="50%">
+<td style="width:50%; vertical-align:top; padding: 20px;">
 
 ### Backend Frameworks
 ![Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=flat-square&logo=go&logoColor=white)
@@ -47,7 +47,7 @@ I'm a full-stack software engineer specializing in distributed systems, microser
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td style="width:50%; vertical-align:top; padding: 20px;">
 
 ### Frontend Development
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -56,7 +56,7 @@ I'm a full-stack software engineer specializing in distributed systems, microser
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 </td>
-<td width="50%">
+<td style="width:50%; vertical-align:top; padding: 20px;">
 
 ### Data & Infrastructure
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
@@ -68,7 +68,7 @@ I'm a full-stack software engineer specializing in distributed systems, microser
 </td>
 </tr>
 <tr>
-<td colspan="2">
+<td colspan="2" style="padding: 20px; vertical-align:top;">
 
 ### Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -83,9 +83,9 @@ I'm a full-stack software engineer specializing in distributed systems, microser
 
 ## 🔬 Core Competencies
 
-<table>
+<table style="width:100%; border-collapse: collapse;">
 <tr>
-<td width="50%">
+<td style="width:50%; vertical-align:top; padding: 20px;">
 
 **Architecture & Design**
 - Microservices architecture & service-oriented design
@@ -94,7 +94,7 @@ I'm a full-stack software engineer specializing in distributed systems, microser
 - Database optimization & query performance
 
 </td>
-<td width="50%">
+<td style="width:50%; vertical-align:top; padding: 20px;">
 
 **Performance & Scalability**
 - High-performance backend systems
@@ -105,7 +105,7 @@ I'm a full-stack software engineer specializing in distributed systems, microser
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td style="width:50%; vertical-align:top; padding: 20px;">
 
 **Full-Stack Development**
 - Modern frontend frameworks (React, Next.js, Svelte)
@@ -114,7 +114,7 @@ I'm a full-stack software engineer specializing in distributed systems, microser
 - Integration testing & API validation
 
 </td>
-<td width="50%">
+<td style="width:50%; vertical-align:top; padding: 20px;">
 
 **DevOps & Infrastructure**
 - Containerization with Docker
