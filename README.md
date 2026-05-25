@@ -26,22 +26,37 @@ I'm a full-stack software engineer specializing in distributed systems, microser
 
 ## 💼 Technical Expertise
 
+<table>
+<tr>
+<td width="50%">
+
 ### Languages & Runtimes
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
+</td>
+<td width="50%">
+
 ### Backend Frameworks
 ![Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### Frontend Development
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+</td>
+<td width="50%">
 
 ### Data & Infrastructure
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
@@ -50,14 +65,27 @@ I'm a full-stack software engineer specializing in distributed systems, microser
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
 ### Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🔬 Core Competencies
+
+<table>
+<tr>
+<td width="50%">
 
 **Architecture & Design**
 - Microservices architecture & service-oriented design
@@ -65,11 +93,19 @@ I'm a full-stack software engineer specializing in distributed systems, microser
 - API design & RESTful/GraphQL interfaces
 - Database optimization & query performance
 
+</td>
+<td width="50%">
+
 **Performance & Scalability**
 - High-performance backend systems
 - Distributed caching strategies (Redis)
 - Load balancing & horizontal scaling
 - Database indexing & optimization
+
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 **Full-Stack Development**
 - Modern frontend frameworks (React, Next.js, Svelte)
@@ -77,11 +113,18 @@ I'm a full-stack software engineer specializing in distributed systems, microser
 - Real-time data streaming (SSE, WebSockets)
 - Integration testing & API validation
 
+</td>
+<td width="50%">
+
 **DevOps & Infrastructure**
 - Containerization with Docker
 - Kubernetes orchestration
 - CI/CD pipeline design
 - Cloud infrastructure (AWS, GCP)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -91,9 +134,7 @@ I'm a full-stack software engineer specializing in distributed systems, microser
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wallaceinnocent&theme=github-dark&background=0d1117)](https://github.com/wallaceinnocent)
 
-### 🔝 Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wallaceinnocent&layout=compact&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&langs_count=8)](https://github.com/wallaceinnocent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wallaceinnocent&layout=pie&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d)](https://github.com/wallaceinnocent)
 
 </div>
 
