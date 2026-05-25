@@ -14,7 +14,7 @@ Building robust, scalable systems with a focus on performance, reliability, and 
 
 ## 🎯 About
 
-I'm a full-stack software engineer specializing in distributed systems, microservices architecture, and high-performance backend optimization. With expertise spanning Go, TypeScript, and Spring Boot, I design and build systems that scale. I'm passionate about clean code, thoughtful API design, and solving complex architectural challenges.
+I'm a full-stack software engineer specializing in distributed systems, microservices architecture, and high-performance backend optimization. With expertise spanning Go, TypeScript, and Spring Boot.
 
 **Current Focus:**
 - 🏗️ Distributed systems & microservices architecture
@@ -89,9 +89,11 @@ I'm a full-stack software engineer specializing in distributed systems, microser
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wallaceinnocent&show_icons=true&theme=github_dark&hide_border=true&count_private=true)](https://github.com/wallaceinnocent)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wallaceinnocent&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117)](https://github.com/wallaceinnocent)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wallaceinnocent&layout=compact&theme=github_dark&hide_border=true)](https://github.com/wallaceinnocent)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wallaceinnocent&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/wallaceinnocent)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wallaceinnocent&theme=github-dark&background=0d1117)](https://github.com/wallaceinnocent)
 
 </div>
 
