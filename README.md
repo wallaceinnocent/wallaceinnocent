@@ -91,6 +91,10 @@ I'm a full-stack software engineer specializing in distributed systems, microser
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wallaceinnocent&theme=github-dark&background=0d1117)](https://github.com/wallaceinnocent)
 
+### 🔝 Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wallaceinnocent&layout=compact&theme=github_dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&langs_count=8)](https://github.com/wallaceinnocent)
+
 </div>
 
 ---
