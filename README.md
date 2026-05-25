@@ -1,9 +1,9 @@
 # Hi, I'm Wallace! 👋 
 
 ### 🚀 About Me
-- 🔭 I’m currently architecting a **Real-time Dashboard** using Next.js and SSE.
-- 🌱 I’m deepening my expertise in **System Design** and high-performance **Go (Fiber)** microservices.
-- 👯 I’m open to collaborating on **Spring Boot** or **Full-stack TypeScript** projects.
+- 🔭 I'm currently architecting a **Real-time Dashboard** using Next.js and SSE.
+- 🌱 I'm deepening my expertise in **System Design** and high-performance **Go (Fiber)** microservices.
+- 👯 I'm open to collaborating on **Spring Boot** or **Full-stack TypeScript** projects.
 - 💬 Ask me about **Distributed Systems, React, or Backend Optimization**.
 
 ### 🛠 Tech Stack
@@ -20,12 +20,12 @@
 ![Fiber](https://img.shields.io/badge/Fiber-v2-blue?style=for-the-badge&logo=gofiber&logoColor=white)
 
 ### 📊 GitHub Stats
-![Wallace's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wallaceinnocent&show_icons=true&theme=radical&rank_icon=github)
+![Wallace's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/github/wallaceinnocent/stat?username=wallaceinnocent&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wallaceinnocent&layout=compact&theme=radical&size_weight=0.5&count_weight=0.5)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/github/wallaceinnocent/top-langs?username=wallaceinnocent&theme=radical)
 
 ---
 
 ### 📫 Connect with me:
-<!-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER) -->
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
