@@ -89,9 +89,9 @@ I'm a full-stack software engineer specializing in distributed systems, microser
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wallaceinnocent&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117)](https://github.com/wallaceinnocent)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wallaceinnocent&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&line_height=27)](https://github.com/wallaceinnocent)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wallaceinnocent&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/wallaceinnocent)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=wallaceinnocent&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&exclude_repo=wallaceinnocent)](https://github.com/wallaceinnocent)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wallaceinnocent&theme=github-dark&background=0d1117)](https://github.com/wallaceinnocent)
 
