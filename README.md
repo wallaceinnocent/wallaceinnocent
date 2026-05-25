@@ -18,7 +18,7 @@
 💻 Full-Stack Developer | System Design Enthusiast | Performance Optimizer
 ```
 
-- 🚀 **Currently Building:** Real-time Dashboard with Next.js + SSE streaming
+
 - 🏗️ **Focused On:** Distributed systems, microservices architecture & Go (Fiber) optimization
 - 🤝 **Open To:** Collaborating on Spring Boot, Full-stack TypeScript, or backend-heavy projects
 - 💡 **Let's Talk About:** System Design, React patterns, distributed caching, API performance
